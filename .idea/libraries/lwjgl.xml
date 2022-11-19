@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jars/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jars/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jars/slick-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jars/guava-31.1-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/natives" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

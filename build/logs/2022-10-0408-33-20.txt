@@ -1,0 +1,51 @@
+Loaded native class: me.pvpb0t.EngineCore
+Loaded native class: me.pvpb0t.handling.KeyHandling
+Loaded native class: me.pvpb0t.render.Loader
+Loaded native class: me.pvpb0t.render.model.raw.Texture
+Loaded native class: me.pvpb0t.render.model.raw.VaoObject
+Loaded native class: me.pvpb0t.render.model.TexturedModel
+Loaded native class: me.pvpb0t.render.ObjectLoader
+Loaded native class: me.pvpb0t.render.shader.MatrixType
+Loaded native class: me.pvpb0t.render.shader.Shader
+Loaded native class: me.pvpb0t.render.shader.ShaderCloseType
+Loaded native class: me.pvpb0t.render.shader.ShaderMain$1
+Loaded native class: me.pvpb0t.render.shader.ShaderMain
+Loaded native class: me.pvpb0t.render.shader.TerrainShader$1
+Loaded native class: me.pvpb0t.render.shader.TerrainShader
+Loaded native class: me.pvpb0t.render.tesselator.EntityTesselator
+Loaded native class: me.pvpb0t.render.tesselator.MainTesselator
+Loaded native class: me.pvpb0t.render.tesselator.TerrainTessalator
+Loaded native class: me.pvpb0t.render.tesselator.Tesselator
+Loaded native class: me.pvpb0t.util.BufferUtil
+Loaded native class: me.pvpb0t.util.ColorUtil
+Loaded native class: me.pvpb0t.util.DebugUtil
+Loaded native class: me.pvpb0t.util.Logger
+Loaded native class: me.pvpb0t.util.math.MatrixUtil
+Loaded native class: me.pvpb0t.util.math.MotionUtil
+Loaded native class: me.pvpb0t.util.math.RotationUtil
+Loaded native class: me.pvpb0t.util.projection.ScaleUtil
+Loaded native class: me.pvpb0t.world.Camera
+Loaded native class: me.pvpb0t.world.entity.EntityBase
+Loaded native class: me.pvpb0t.world.entity.EntityBaseSP
+Loaded native class: me.pvpb0t.world.Light
+Loaded native class: me.pvpb0t.world.terrain.Terrain
+Launch sequence took 2193 milliseconds.
+Debug :true
+SPlayerPos[Vector3f[56.01605, 14.0, 111.37051]]
+SPlayerRot[ pitch:0.0 yaw:115.5]
+SPlayerPos[Vector3f[137.2487, 14.0, 150.11653]]
+SPlayerRot[ pitch:0.0 yaw:115.5]
+SPlayerPos[Vector3f[207.71837, 14.0, 211.42726]]
+SPlayerRot[ pitch:0.0 yaw:115.5]
+Debug :false
+Debug :true
+SPlayerPos[Vector3f[288.95102, 14.0, 250.1733]]
+SPlayerRot[ pitch:0.0 yaw:115.5]
+Debug :false
+Debug :true
+Debug :false
+Debug :true
+SPlayerPos[Vector3f[531.3582, 14.0, 369.11914]]
+SPlayerRot[ pitch:0.0 yaw:115.5]
+Debug :false
+Uninitialized B0TNET
