@@ -37,7 +37,7 @@ Cheat = HOME
 ### Credit
 Models and textures are not made by me. Credit goes to the makers of them.
 
-Also credits to [ThinMatrix](https://www.youtube.com/@ThinMatrix) for help with GLSL and OpenGL
+Also credits to [ThinMatrix](https://www.youtube.com/@ThinMatrix) for help with GLSL, Font and OpenGL
 
 ### License
 [Here](LICENSE)<br>
