@@ -1,47 +1,56 @@
-# Mystical Engine
-Java 3D-Game Engine by pvpb0t
-![bild](https://user-images.githubusercontent.com/74259011/202846944-7039f10b-fd23-4dd2-abe1-88572ad61d4f.png)
-[Runnable Java Archive](build)
+# Mystical Engine: A Java 3D-Game Experience
 
-### Information
+![Mystical Engine](https://user-images.githubusercontent.com/74259011/202846944-7039f10b-fd23-4dd2-abe1-88572ad61d4f.png)
 
-This is a game engine i been working on for the past 3 months. It uses LWJGL 2.9 and is coded in java 8. 
-The map is randomly generated. This includes the terrain, the trees and the gold in order to create a new experience for the players, everytime they launch the game.
+Developed by pvpb0t
 
+[Download Runnable Java Archive](build)
 
-### How to run
+## About
 
-Run the [run.bat](build) file if on windows
-Otherwise run the following command but replace the natives with the right ones for your OS
+Mystical Engine is an immersive 3D game engine developed using Java 8 and LWJGL 2.9. Immerse yourself in a uniquely generated world with varying terrain, trees, and gold each time you play.
+
+## How to Run
+
+- For Windows users, run the [run.bat](build) file.
+- For other operating systems, run the following command, replacing the natives with the appropriate ones for your OS:
 ```
 java -jar -Djava.library.path="natives" "LWJGL game.jar"
 ```
 
-### Objective
 
-Find all the missing gold (40) by navigating around the map
+## Game Objective
 
-### Controls
+Explore the map and collect all 40 missing gold pieces.
+
+## Controls
 
 ```
-Movement = WASD
-Rotate Yaw = Right, Left
-Rotate Pitch = Up, Down
-Sprint = Shift
-Jump = Space
-Change FOV = Scroll
-Debug = F12
-Cheat = HOME
+Movement: WASD
+Rotate Yaw: Right, Left
+Rotate Pitch: Up, Down
+Sprint: Shift
+Jump: Space
+Change FOV: Scroll
+Debug: F12
+Cheat: HOME
 ```
 
-### Credit
-Models and textures are not made by me. Credit goes to the makers of them.
 
-Also credits to [ThinMatrix](https://www.youtube.com/@ThinMatrix) for help with GLSL, Font and OpenGL
+## Credits
 
-### License
-[Here](LICENSE)<br>
-**CC BY-NC-SA 2.5 SE** lets you share (copy and redistribute the material in any medium or format) and adapt(remix, transform, and build upon the material) to this project on the following terms that you have to give appropriate credit, provide a link to the license and indicate if changes were made. You may not use the material for commercial purposes. ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
+- Models and textures: Various creators (not made by pvpb0t)
+- Special thanks to [ThinMatrix](https://www.youtube.com/@ThinMatrix) for assistance with GLSL, Font, and OpenGL.
+
+## License
+
+[View License](LICENSE)
+
+**CC BY-NC-SA 2.5 SE** allows you to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) this project under the following terms:
+
+- Attribution: Give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+- ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 © 2022 pvpb0t
-
