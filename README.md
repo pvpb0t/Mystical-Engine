@@ -2,7 +2,7 @@
 
 ![Mystical Engine](https://user-images.githubusercontent.com/74259011/202846944-7039f10b-fd23-4dd2-abe1-88572ad61d4f.png)
 
-Developed by pvpb0t
+Developed by me
 
 [Download Runnable Java Archive](build)
 
