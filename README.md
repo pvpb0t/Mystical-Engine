@@ -39,7 +39,7 @@ Cheat: HOME
 
 ## Credits
 
-- Models and textures: Various creators (not made by pvpb0t)
+- Models and textures: Various creators
 - Special thanks to [ThinMatrix](https://www.youtube.com/@ThinMatrix) for assistance with GLSL, Font, and OpenGL.
 
 ## License
