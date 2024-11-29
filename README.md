@@ -53,4 +53,3 @@ Cheat: HOME
 - ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 - No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-© 2022 pvpb0t
